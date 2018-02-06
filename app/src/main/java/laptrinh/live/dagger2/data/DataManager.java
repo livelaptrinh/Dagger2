@@ -1,10 +1,10 @@
 package laptrinh.live.dagger2.data;
 
+import android.content.Context;
 import android.content.res.Resources;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
-import javax.naming.Context;
 
 import laptrinh.live.dagger2.data.model.User;
 import laptrinh.live.dagger2.di.ApplicationContext;

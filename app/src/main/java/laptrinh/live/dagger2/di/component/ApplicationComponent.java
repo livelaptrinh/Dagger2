@@ -1,10 +1,10 @@
 package laptrinh.live.dagger2.di.component;
 
 import android.app.Application;
+import android.content.Context;
 import android.content.SharedPreferences;
 
 import javax.inject.Singleton;
-import javax.naming.Context;
 
 import dagger.Component;
 import laptrinh.live.dagger2.DemoApplication;
